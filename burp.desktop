@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=BurpSuite
+GenericName=BurpSuite
+Comment=BurpSuite
+Exec=sh -c "cd /home/kronic3ic/Tools/burp/; java -jar /home/kronic3ic/Tools/burp/burp-loader-keygen.jar"
+Icon=/home/kronic3ic/Imágenes/burp-suite-icon.png
+Terminal=false
+Type=Application
+Categories=HackingALot
